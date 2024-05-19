@@ -123,8 +123,8 @@ Appendices
 
 Graph of the portfolio over 4 years of trading by our 5 RL models. Here dotted lines are models without sentiments and emotions.
 
-![](![Aspose Words 45559aa3-3259-492c-a70b-a1eb15ee21f9 001](https://github.com/git4sudo/fin_rl_vs_llm/assets/46088769/d2da0c0a-6c5f-4afb-b017-cba4aea8f1eb)
-)Table of comparison of Max, min and final monetary values obtained from models with and without sentiments and emotions.
+![Aspose Words 45559aa3-3259-492c-a70b-a1eb15ee21f9 001](https://github.com/git4sudo/fin_rl_vs_llm/assets/46088769/d2da0c0a-6c5f-4afb-b017-cba4aea8f1eb)
+Table of comparison of Max, min and final monetary values obtained from models with and without sentiments and emotions.
 
 
 
